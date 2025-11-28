@@ -43,9 +43,9 @@ I'm a passionate software engineer with solid experience building scalable syste
 
 <div align="center">
 
-![Yury's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cavalcanteyury&show_icons=true&theme=dark&hide_border=true)
+[![Yury's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavalcanteyury)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcanteyury&layout=compact&theme=dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcanteyury)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
