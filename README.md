@@ -68,4 +68,4 @@ I'm a passionate software engineer with solid experience building scalable syste
 - Music! I play (very badly) bass and electric guitar.
 - Games. Mostly ~~JRPGs~~ the ones with RPG elements.
 - Exploring new technologies and paradigms
-- Sharing knowledge. I love documenting process, it's the ultimate proof of my comprehension.
+- Sharing knowledge. I love documenting processes, it's the ultimate proof of my comprehension.
