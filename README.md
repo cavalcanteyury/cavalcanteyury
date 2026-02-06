@@ -30,12 +30,12 @@ I'm a passionate software engineer with solid experience building scalable syste
 
 ## 💼 **About Me**
 
-- 🎯 Specialized in backend development with **Ruby** as my primary language
-- 🔧 Extensive experience with **Unix systems**, **Docker**, and **container orchestration**
-- 🚀 Proficient in **CI/CD pipelines**, **automated deployments**, and **production environments**
-- 💾 Deep knowledge of **relational databases** (PostgreSQL, MySQL) and **NoSQL solutions** (Elasticsearch, MongoDB, Cassandra)
-- 🌐 Hands-on experience with **Elixir**, **Python**, and **Go** for specific use cases
-- 📚 Continuous learner passionate about building maintainable, scalable systems
+- Specialized in backend development with **Ruby** as my primary language
+- Extensive experience with **Unix systems**, **Docker**, and **container orchestration**
+- Proficient in **CI/CD pipelines**, **automated deployments**, and **production environments**
+- Deep knowledge of **relational databases** (PostgreSQL, MySQL) and **NoSQL solutions** (Elasticsearch, MongoDB, Cassandra)
+- Hands-on experience with **Elixir**, **Python**, and **Go** for specific use cases
+- Continuous learner passionate about building maintainable, scalable systems
 
 ---
 
@@ -43,9 +43,7 @@ I'm a passionate software engineer with solid experience building scalable syste
 
 <div align="center">
 
-[![Yury's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavalcanteyury)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcanteyury)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-kappa-gules-32.vercel.app/api/top-langs/?username=cavalcanteyury)
 
 </div>
 
